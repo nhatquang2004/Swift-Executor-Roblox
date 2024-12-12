@@ -14,6 +14,7 @@ To get started with Swift Executor, follow these simple steps:
 
 
 
+
 ![Swift Executor Preview](/assets/maanvilro.gif)
 
 ## Table of Contents
